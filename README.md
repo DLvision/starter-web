@@ -13,3 +13,5 @@ To fail and feel bad about my self but not so bad that I do something about it, 
 ## Deployment
 
 ## How To Contribute
+
+Please fork this repository and then issue Pull Requests for review.
