@@ -15,3 +15,7 @@ To fail and feel bad about my self but not so bad that I do something about it, 
 ## How To Contribute
 
 Please fork this repository and then issue Pull Requests for review.
+
+### Copyright
+
+ 2018 fractured, but whole
