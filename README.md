@@ -13,3 +13,7 @@ To fail and feel bad about my self but not so bad that I do something about it, 
 ## Deployment
 
 ## How To Contribute
+
+### Copyright
+
+ 2018 fractured, but whole
