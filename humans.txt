@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dean-Luka   junior Developer   @Yolo 
 
 # THANKS
 
